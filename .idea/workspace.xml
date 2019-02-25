@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EvaTunaDailyOrb:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b57f8358-17ab-4b6b-90e6-ab983da0f6a0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EvaTunaDailyOrb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5610">
+              <caret line="282" column="59" selection-start-line="282" selection-start-column="59" selection-end-line="282" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#10910#10911#0" expanded="true" />
+                <element signature="e#10959#10960#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/AntiCheating.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Friday.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="52" column="68" lean-forward="true" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/command/AdminCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Thursday.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>brazier</find>
+      <find>0</find>
+      <find>get(</find>
+      <find>send</find>
+      <find>e.getBlock()</find>
+      <find>entity</find>
+      <find>kill</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>block</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/main/event/Mobkill.java" />
+        <option value="$PROJECT_DIR$/EvaTunaDailyOrb.iml" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/ThursDay.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/TuesDay.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/WednesDay.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Probaility.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/DayManager.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/QuickHash.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/Daily.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Probability.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/AntiCheating.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Mining.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Smelting.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Breeding.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Farming.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Fishing.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Hunting.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/probability/Logging.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/file/JsonSave.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/Statistics/Statistics.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/Sunday.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/Wednesday.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/Monday.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/Friday.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/Thursday.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/Tuesday.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/Saturday.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/Constants.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/file/JsonLoad.java" />
+        <option value="$PROJECT_DIR$/src/evatuna/salkcoding/command/AdminCommand.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Smelting.java" />
+        <option value="$PROJECT_DIR$/src/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/Constants.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Monday.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Tuesday.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Wednesday.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Sunday.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Probability.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Thursday.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Friday.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Saturday.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/command/AdminCommand.java" />
+        <option value="$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/AntiCheating.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EvaTunaDailyOrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvaTunaDailyOrb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvaTunaDailyOrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvaTunaDailyOrb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvaTunaDailyOrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvaTunaDailyOrb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="salkcoding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvaTunaDailyOrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvaTunaDailyOrb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="salkcoding" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvaTunaDailyOrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvaTunaDailyOrb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="salkcoding" type="462c0819:PsiDirectoryNode" />
+              <item name="dailyevent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvaTunaDailyOrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvaTunaDailyOrb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="salkcoding" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvaTunaDailyOrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvaTunaDailyOrb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="salkcoding" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvaTunaDailyOrb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvaTunaDailyOrb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="salkcoding" type="462c0819:PsiDirectoryNode" />
+              <item name="probability" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550511659036" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Kotlin" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b57f8358-17ab-4b6b-90e6-ab983da0f6a0" name="Default Changelist" comment="" />
+      <created>1548575736517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548575736517</updated>
+      <workItem from="1548575739503" duration="1016000" />
+      <workItem from="1548577234249" duration="14935000" />
+      <workItem from="1548609298712" duration="238000" />
+      <workItem from="1548692763404" duration="29000" />
+      <workItem from="1548692905387" duration="79000" />
+      <workItem from="1548693003092" duration="3907000" />
+      <workItem from="1548697010059" duration="1147000" />
+      <workItem from="1548741264576" duration="15129000" />
+      <workItem from="1548767897546" duration="7155000" />
+      <workItem from="1548837787620" duration="14000" />
+      <workItem from="1548837879398" duration="14404000" />
+      <workItem from="1548862116429" duration="2938000" />
+      <workItem from="1548918384093" duration="489000" />
+      <workItem from="1548923726613" duration="2178000" />
+      <workItem from="1548947353684" duration="5819000" />
+      <workItem from="1548954888737" duration="13000" />
+      <workItem from="1548955131450" duration="202000" />
+      <workItem from="1548955369761" duration="43000" />
+      <workItem from="1549034564149" duration="657000" />
+      <workItem from="1549110312290" duration="1081000" />
+      <workItem from="1549196149223" duration="74000" />
+      <workItem from="1549442404791" duration="2815000" />
+      <workItem from="1549446363204" duration="2767000" />
+      <workItem from="1549708072799" duration="64000" />
+      <workItem from="1549713238326" duration="5000" />
+      <workItem from="1549720422889" duration="567000" />
+      <workItem from="1549723251731" duration="1578000" />
+      <workItem from="1549729060780" duration="232000" />
+      <workItem from="1549730183294" duration="1628000" />
+      <workItem from="1549732293971" duration="5654000" />
+      <workItem from="1549818302503" duration="156000" />
+      <workItem from="1549824560530" duration="226000" />
+      <workItem from="1549826484398" duration="159000" />
+      <workItem from="1549860223096" duration="2138000" />
+      <workItem from="1549878066956" duration="959000" />
+      <workItem from="1549896720088" duration="42000" />
+      <workItem from="1549900456439" duration="652000" />
+      <workItem from="1549903715170" duration="2411000" />
+      <workItem from="1549933584301" duration="536000" />
+      <workItem from="1550389551249" duration="2071000" />
+      <workItem from="1550402098632" duration="871000" />
+      <workItem from="1550498940191" duration="1246000" />
+      <workItem from="1550500581077" duration="1373000" />
+      <workItem from="1550589496166" duration="2328000" />
+      <workItem from="1550595751532" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102144000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.638806" visible="true" weight="0.29020235" />
+      <window_info id="Structure" order="1" sideWeight="0.36119404" side_tool="true" visible="true" weight="0.29020235" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5013405" side_tool="true" weight="0.1799787" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5681576" side_tool="true" visible="true" weight="0.27645788" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" sideWeight="0.4318424" visible="true" weight="0.27645788" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/evatuna/salkcoding/event/Mobkill.java" />
+    <entry file="file://$PROJECT_DIR$/src/config.yml" />
+    <entry file="file://$PROJECT_DIR$/EvaTunaDailyOrb.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Minecraft/Library/gson-2.8.5.jar!/com/google/gson/JsonParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Minecraft/Library/spigot-1.13.2.jar!/org/bukkit/inventory/ItemStack.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/evatuna/salkcoding/dailyevent/DayManager.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="177" column="20" lean-forward="true" selection-start-line="177" selection-start-column="20" selection-end-line="177" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Minecraft/Library/spigot-1.13.2.jar!/org/bukkit/Material.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479">
+          <caret line="3454" column="73" lean-forward="true" selection-start-line="3454" selection-start-column="73" selection-end-line="3454" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/QuickHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="1006" column="22" selection-start-line="1006" selection-start-column="22" selection-end-line="1006" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Minecraft/Library/spigot-1.13.2.jar!/org/bukkit/Location.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="232" column="81" selection-start-line="232" selection-start-column="65" selection-end-line="232" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="336" column="21" selection-start-line="336" selection-start-column="21" selection-end-line="336" selection-end-column="21" />
+          <folding>
+            <element signature="e#23630#23631#0" expanded="true" />
+            <element signature="e#23684#23685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="203" column="29" selection-start-line="203" selection-start-column="29" selection-end-line="203" selection-end-column="29" />
+          <folding>
+            <element signature="e#5324#5325#0" expanded="true" />
+            <element signature="e#5376#5377#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+            <element signature="e#7468#7469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Logging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Hunting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Fishing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Minecraft/Library/gson-2.8.5.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="429" column="18" selection-start-line="429" selection-start-column="18" selection-end-line="429" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c531b5c207c71c4/Constants.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c531ba9207d9e3d/Constants.class" />
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Breeding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Farming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/Statistics/Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Smelting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/Daily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/file/JsonSave.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="54" column="53" lean-forward="true" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Probability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Tuesday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="41" column="79" selection-start-line="41" selection-start-column="79" selection-end-line="41" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/probability/Mining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/file/JsonLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="198" column="38" selection-start-line="198" selection-start-column="38" selection-end-line="198" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Wednesday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="46" column="89" selection-start-line="46" selection-start-column="89" selection-end-line="46" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Monday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Saturday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Sunday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="45" column="78" selection-start-line="45" selection-start-column="78" selection-end-line="45" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5610">
+          <caret line="282" column="59" selection-start-line="282" selection-start-column="59" selection-end-line="282" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#10910#10911#0" expanded="true" />
+            <element signature="e#10959#10960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/command/AdminCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Friday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="52" column="68" lean-forward="true" selection-start-line="52" selection-start-column="68" selection-end-line="52" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/Thursday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/evatunadailyorb/salkcoding/dailyevent/AntiCheating.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>EvaTunaDailyOrb:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EvaTunaDailyOrb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
