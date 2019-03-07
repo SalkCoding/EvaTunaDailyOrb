@@ -8,13 +8,13 @@ import org.bukkit.GameMode;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerFishEvent;
 
 import java.io.IOException;
 
-public class
-Wednesday implements Listener {
+public class Wednesday implements Listener {
 
     private static boolean enable;
     private static final Fishing fishing = new Fishing();
@@ -36,8 +36,10 @@ Wednesday implements Listener {
         }
     }
 
-    @EventHandler
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onFishing(PlayerFishEvent event) {
+        if(event.isCancelled())
+            return;
         if (enable) {
             if (event.getState() == PlayerFishEvent.State.CAUGHT_FISH || event.getState() == PlayerFishEvent.State.CAUGHT_ENTITY) {
                 Entity entity = event.getCaught();

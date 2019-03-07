@@ -25,9 +25,8 @@ public class AntiCheating {
                     return true;
             }
         }
-        for (Entity entity : location.getWorld().getNearbyEntities(location, 10, 10, 10))
+        for (Entity entity : location.getWorld().getNearbyEntities(location, 5, 5, 5))
             if (entity instanceof Player) {
-                //entity.sendMessage("wtf?");
                 if (entity.getEntityId() == player.getEntityId()) continue;
                 return true;
             }
@@ -61,7 +60,7 @@ public class AntiCheating {
     }*/
 
     public static void load() {
-        task = Bukkit.getScheduler().runTaskTimerAsynchronously(Main.getInstance(), locationMap::clear, 6000, 6000);
+        task = Bukkit.getScheduler().runTaskTimerAsynchronously(Main.getInstance(), locationMap::clear, 3600, 3600);
     }
 
     public static void unload() {

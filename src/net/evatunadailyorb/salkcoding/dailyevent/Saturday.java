@@ -5,10 +5,12 @@ import net.evatunadailyorb.salkcoding.Daily;
 import net.evatunadailyorb.salkcoding.Statistics.Statistics;
 import net.evatunadailyorb.salkcoding.probability.Farming;
 import org.bukkit.GameMode;
+import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.data.Ageable;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;
 
@@ -36,13 +38,21 @@ public class Saturday implements Listener {
         }
     }
 
-    @EventHandler
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onFarming(BlockBreakEvent event) {
+        if (event.isCancelled())
+            return;
         if (enable) {
             Block block = event.getBlock();
             Player player = event.getPlayer();
             if (player == null)
                 return;
+            if (block.getType() == Material.CACTUS || block.getType() == Material.KELP || block.getType() == Material.KELP_PLANT || block.getType() == Material.SUGAR_CANE) {
+                if (AntiCheating.isUsed(player, block.getLocation()))
+                    return;
+                else
+                    AntiCheating.addLocation(player, block.getLocation());
+            }
             if (player.getGameMode() == GameMode.SURVIVAL && Constants.isFarmingBlock(block.getType())) {
                 if (!(block.getBlockData() instanceof Ageable))
                     return;

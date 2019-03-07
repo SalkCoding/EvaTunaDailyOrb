@@ -7,6 +7,7 @@ import net.evatunadailyorb.salkcoding.probability.Smelting;
 import org.bukkit.GameMode;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.inventory.FurnaceExtractEvent;
 
@@ -34,7 +35,7 @@ public class Tuesday implements Listener {
         }
     }
 
-    @EventHandler
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onSmelting(FurnaceExtractEvent event) {
         if (event.getPlayer().getGameMode() == GameMode.SURVIVAL && enable) {
             if (smelting.getSucceed(event.getPlayer(), event.getItemAmount())) {

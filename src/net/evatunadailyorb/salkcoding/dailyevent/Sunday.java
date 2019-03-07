@@ -8,6 +8,7 @@ import org.bukkit.GameMode;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityBreedEvent;
 
@@ -35,8 +36,10 @@ public class Sunday implements Listener {
         }
     }
 
-    @EventHandler
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onBreeding(EntityBreedEvent event) {
+        if(event.isCancelled())
+            return;
         if (enable) {
             Entity entity = event.getEntity();
             if (!(event.getBreeder() instanceof Player))

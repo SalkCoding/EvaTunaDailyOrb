@@ -1,6 +1,6 @@
 main: net.evatunadailyorb.salkcoding.main.Main
 name: EvaTunaDailyOrb
-version: 1.0.2
+version: 1.0.3
 api-version: 1.13
 author: Salk_Coding
 commands:

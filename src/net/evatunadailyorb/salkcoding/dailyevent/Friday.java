@@ -11,6 +11,7 @@ import org.bukkit.block.Block;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.inventory.ItemStack;
@@ -40,8 +41,10 @@ public class Friday implements Listener {
         }
     }
 
-    @EventHandler
+    @EventHandler(priority = EventPriority.HIGHEST)
     public void onMining(BlockBreakEvent event) {
+        if(event.isCancelled())
+            return;
         if (enable) {
             Block block = event.getBlock();
             Player player = event.getPlayer();
